@@ -1,0 +1,4 @@
+C:\Users\Phil Griswold\source\repos\StudentExercise5\StudentExercise5\bin\Debug\netcoreapp3.1\StudentExercise5.exe
+C:\Users\Phil Griswold\source\repos\StudentExercise5\StudentExercise5\obj\Debug\netcoreapp3.1\StudentExercise5.csprojAssemblyReference.cache
+C:\Users\Phil Griswold\source\repos\StudentExercise5\StudentExercise5\obj\Debug\netcoreapp3.1\StudentExercise5.AssemblyInfoInputs.cache
+C:\Users\Phil Griswold\source\repos\StudentExercise5\StudentExercise5\obj\Debug\netcoreapp3.1\StudentExercise5.AssemblyInfo.cs
